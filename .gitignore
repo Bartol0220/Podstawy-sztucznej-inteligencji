@@ -209,3 +209,7 @@ __marimo__/
 
 # Venv
 psi_venv
+
+#data
+*.zip
+ml-100k/
