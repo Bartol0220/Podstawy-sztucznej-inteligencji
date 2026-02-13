@@ -209,3 +209,9 @@ __marimo__/
 
 # Venv
 psi_venv
+
+# data lab4
+lab4/data/
+lab4/hotdog.zip
+lab4/hotdog/
+lab4/toothbrushes.jpg
