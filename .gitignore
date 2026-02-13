@@ -210,6 +210,9 @@ __marimo__/
 # Venv
 psi_venv
 
+#data
+*.zip
+ml-100k/
 # lab5
 lab5/poquad-dev.json
 lab5/poquad-train.json
