@@ -217,3 +217,8 @@ lab5/question-context-classification/
 lab5/question-answer/
 lab5/output/
 lab5/seq2seq_output/
+# data lab4
+lab4/data/
+lab4/hotdog.zip
+lab4/hotdog/
+lab4/toothbrushes.jpg
